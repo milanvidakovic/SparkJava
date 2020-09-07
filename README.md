@@ -3,7 +3,7 @@
 This is SparkJava-based demo of the Authentication and Authorization framework.
 See source of the interceptor at [Github](https://github.com/milanvidakovic/SparkInterceptor).
 
-You need to add the CLASSPATH following jars:
+You need to add to the CLASSPATH following jars:
 * agent.jar
 * aspectjweaver-1.9.6.jar
 * aspectjrt-1.9.6.jar
