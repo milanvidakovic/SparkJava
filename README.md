@@ -11,5 +11,7 @@ You need to add the CLASSPATH following jars:
 
 To start your SparkJava app with the interceptor, add at the end of VM params: 
 
+```
 -javaagent:c:\<path-to-aspectj>\aspectjweaver-1.9.6.jar
+```
 
